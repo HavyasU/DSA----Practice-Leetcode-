@@ -1,0 +1,77 @@
+# LeetCode Solutions in Java
+
+A collection of LeetCode problem solutions implemented in Java.
+
+## 📁 Repository Structure
+
+Each problem is organized in its own directory with the following structure:
+
+```
+XXX-ProblemName/
+├── README.md      # Problem description, examples, and solution approach
+└── Solution.java  # Java implementation
+```
+
+## 📊 Problems Solved
+
+| #    | Problem                                                                           | Difficulty | Solution                                                    |
+| ---- | --------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
+| 1    | [Two Sum](001-TwoSum/)                                                            | Easy       | [Java](001-TwoSum/Solution.java)                            |
+| 2    | [Valid Parentheses](002-ValidParentheses/)                                        | Easy       | [Java](002-ValidParentheses/Solution.java)                  |
+| 7    | [Reverse Integer](007-ReverseInteger/)                                            | Medium     | [Java](007-ReverseInteger/Solution.java)                    |
+| 11   | [Container With Most Water](011-ContainerWithMostWater/)                          | Medium     | [Java](011-ContainerWithMostWater/Solution.java)            |
+| 26   | [Remove Duplicates From Sorted Array](026-RemoveDuplicatesFromSortedArray/)       | Easy       | [Java](026-RemoveDuplicatesFromSortedArray/Solution.java)   |
+| 27   | [Remove Element](027-RemoveElement/)                                              | Easy       | [Java](027-RemoveElement/Solution.java)                     |
+| 28   | [Find Index Of First Occurrence](028-FindIndexOfFirstOccurrence/)                 | Easy       | [Java](028-FindIndexOfFirstOccurrence/Solution.java)        |
+| 58   | [Length Of Last Word](058-LengthOfLastWord/)                                      | Easy       | [Java](058-LengthOfLastWord/Solution.java)                  |
+| 66   | [Plus One](066-PlusOne/)                                                          | Easy       | [Java](066-PlusOne/Solution.java)                           |
+| 88   | [Merge Sorted Array](088-MergeSortedArray/)                                       | Easy       | [Java](088-MergeSortedArray/Solution.java)                  |
+| 125  | [Valid Palindrome](125-ValidPalindrome/)                                          | Easy       | [Java](125-ValidPalindrome/Solution.java)                   |
+| 135  | [Candy](135-Candy/)                                                               | Hard       | [Java](135-Candy/Solution.java)                             |
+| 151  | [Reverse Words In String](151-ReverseWordsInString/)                              | Medium     | [Java](151-ReverseWordsInString/Solution.java)              |
+| 160  | [Intersection Of Two Linked Lists](160-IntersectionOfTwoLinkedLists/)             | Easy       | [Java](160-IntersectionOfTwoLinkedLists/Solution.java)      |
+| 189  | [Rotate Array](189-RotateArray/)                                                  | Medium     | [Java](189-RotateArray/Solution.java)                       |
+| 202  | [Happy Number](202-HappyNumber/)                                                  | Easy       | [Java](202-HappyNumber/Solution.java)                       |
+| 205  | [Isomorphic Strings](205-IsomorphicStrings/)                                      | Easy       | [Java](205-IsomorphicStrings/Solution.java)                 |
+| 217  | [Contains Duplicate](217-ContainsDuplicate/)                                      | Easy       | [Java](217-ContainsDuplicate/Solution.java)                 |
+| 238  | [Product Of Array Except Self](238-ProductOfArrayExceptSelf/)                     | Medium     | [Java](238-ProductOfArrayExceptSelf/Solution.java)          |
+| 242  | [Valid Anagram](242-ValidAnagram/)                                                | Easy       | [Java](242-ValidAnagram/Solution.java)                      |
+| 283  | [Move Zeroes](283-MoveZeroes/)                                                    | Easy       | [Java](283-MoveZeroes/Solution.java)                        |
+| 290  | [Word Pattern](290-WordPattern/)                                                  | Easy       | [Java](290-WordPattern/Solution.java)                       |
+| 383  | [Ransom Note](383-RansomNote/)                                                    | Easy       | [Java](383-RansomNote/Solution.java)                        |
+| 392  | [Is Subsequence](392-IsSubsequence/)                                              | Easy       | [Java](392-IsSubsequence/Solution.java)                     |
+| 485  | [Max Consecutive Ones](485-MaxConsecutiveOnes/)                                   | Easy       | [Java](485-MaxConsecutiveOnes/Solution.java)                |
+| 560  | [Running Sum 1D](560-RunningSum1D/)                                               | Easy       | [Java](560-RunningSum1D/Solution.java)                      |
+| 747  | [Largest Number At Least Twice Of Others](747-LargestNumberAtLeastTwiceOfOthers/) | Easy       | [Java](747-LargestNumberAtLeastTwiceOfOthers/Solution.java) |
+| 2154 | [Keep Multiplying Found Values By Two](2154-KeepMultiplyingFoundValuesByTwo/)     | Easy       | [Java](2154-KeepMultiplyingFoundValuesByTwo/Solution.java)  |
+
+## 🚀 How to Use
+
+1. Navigate to the specific problem directory
+2. Read the README.md for problem description and approach
+3. Review the Solution.java file for the implementation
+
+## 💻 Running the Solutions
+
+Each solution is a standalone Java class with a main method for testing. To run:
+
+```bash
+cd XXX-ProblemName
+javac Solution.java
+java Solution
+```
+
+## 📝 Notes
+
+- All solutions are implemented in Java
+- Each solution includes time and space complexity analysis
+- Problems are organized by their LeetCode problem number
+
+## 📚 Resources
+
+- [LeetCode](https://leetcode.com/)
+- [LeetCode Problems](https://leetcode.com/problemset/)
+
+---
+
+**Happy Coding! 🎯**
