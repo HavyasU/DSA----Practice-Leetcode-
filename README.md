@@ -421,6 +421,7 @@ java Solution
 | [0260-single-number-iii](https://github.com/HavyasU/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HavyasU/DSA-Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1763-longest-nice-substring](https://github.com/HavyasU/DSA-Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/HavyasU/DSA-Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HavyasU/DSA-Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -445,6 +446,7 @@ java Solution
 | [0866-prime-palindrome](https://github.com/HavyasU/DSA-Leetcode/tree/main/0866-prime-palindrome/) | Medium |
 | [1025-divisor-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HavyasU/DSA-Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HavyasU/DSA-Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
