@@ -439,6 +439,7 @@ java Solution
 | [0070-climbing-stairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/HavyasU/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/HavyasU/DSA-Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0382-linked-list-random-node](https://github.com/HavyasU/DSA-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/HavyasU/DSA-Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -479,6 +480,7 @@ java Solution
 | [0206-reverse-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/HavyasU/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
