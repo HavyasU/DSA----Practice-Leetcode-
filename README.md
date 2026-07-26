@@ -420,6 +420,7 @@ java Solution
 | [0231-power-of-two](https://github.com/HavyasU/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/HavyasU/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/HavyasU/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HavyasU/DSA-Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1763-longest-nice-substring](https://github.com/HavyasU/DSA-Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -440,6 +441,7 @@ java Solution
 | [0231-power-of-two](https://github.com/HavyasU/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/HavyasU/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/HavyasU/DSA-Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0382-linked-list-random-node](https://github.com/HavyasU/DSA-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/HavyasU/DSA-Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -481,6 +483,7 @@ java Solution
 | [0231-power-of-two](https://github.com/HavyasU/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/HavyasU/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
