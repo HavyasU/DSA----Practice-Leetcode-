@@ -148,6 +148,7 @@ java Solution
 | [0125-valid-palindrome](https://github.com/HavyasU/DSA-Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/HavyasU/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/HavyasU/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0409-longest-palindrome](https://github.com/HavyasU/DSA-Leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -729,6 +730,7 @@ java Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/HavyasU/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HavyasU/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -743,6 +745,7 @@ java Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/HavyasU/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HavyasU/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/HavyasU/DSA-Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
@@ -758,6 +761,7 @@ java Solution
 | [0144-binary-tree-preorder-traversal](https://github.com/HavyasU/DSA-Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/HavyasU/DSA-Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -802,4 +806,8 @@ java Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
