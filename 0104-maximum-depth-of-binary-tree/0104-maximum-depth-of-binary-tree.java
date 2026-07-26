@@ -22,7 +22,7 @@ class Solution {
         int left = DFS(node.left);
         int right = DFS(node.right);
 
-        return 1+Math.max(left, right);
+        return Math.max(left, right)+1;
     }
     public int maxDepth(TreeNode root) {
         return DFS(root);
