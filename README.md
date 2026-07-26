@@ -722,6 +722,7 @@ java Solution
 | [0098-validate-binary-search-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -732,6 +733,7 @@ java Solution
 | [0098-validate-binary-search-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -743,6 +745,7 @@ java Solution
 | [0098-validate-binary-search-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -767,6 +770,7 @@ java Solution
 | ------- | ------- |
 | [0100-same-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/HavyasU/DSA-Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
 ## Game Theory
