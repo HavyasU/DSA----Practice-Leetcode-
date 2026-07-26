@@ -1,18 +1,8 @@
 class Solution {
     public int maxProduct(int n) {
-        int max=-999;
-        int secmax=max;
-        while(n!=0){
-            int d = n%10;
-            if(d>=max){
-                secmax =max;
-                max = d;
-            }else if(d<max && d>secmax){
-                secmax = d;
-            }
-            n = n/10;
-        }
-
-        return max*secmax;
+        char chars[] = String.valueOf(n).toCharArray();
+       Arrays.sort(chars);
+       n = chars.length;
+       return (int)(chars[n-1]-'0')* (int)( chars[n-2]-'0');
     }
 }
