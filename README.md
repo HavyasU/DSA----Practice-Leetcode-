@@ -116,6 +116,7 @@ java Solution
 | [1189-maximum-number-of-balloons](https://github.com/HavyasU/DSA-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/HavyasU/DSA-Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HavyasU/DSA-Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/HavyasU/DSA-Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -282,6 +283,7 @@ java Solution
 | [1207-unique-number-of-occurrences](https://github.com/HavyasU/DSA-Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HavyasU/DSA-Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HavyasU/DSA-Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HavyasU/DSA-Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -357,6 +359,7 @@ java Solution
 | [0881-boats-to-save-people](https://github.com/HavyasU/DSA-Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0917-reverse-only-letters](https://github.com/HavyasU/DSA-Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/HavyasU/DSA-Leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HavyasU/DSA-Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/HavyasU/DSA-Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1861-rotating-the-box](https://github.com/HavyasU/DSA-Leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -387,6 +390,7 @@ java Solution
 | [0493-reverse-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/HavyasU/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HavyasU/DSA-Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2540-minimum-common-value](https://github.com/HavyasU/DSA-Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -410,6 +414,7 @@ java Solution
 | [0628-maximum-product-of-three-numbers](https://github.com/HavyasU/DSA-Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/HavyasU/DSA-Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HavyasU/DSA-Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/HavyasU/DSA-Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HavyasU/DSA-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/HavyasU/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
