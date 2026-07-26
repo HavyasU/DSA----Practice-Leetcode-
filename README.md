@@ -116,6 +116,7 @@ java Solution
 | [1189-maximum-number-of-balloons](https://github.com/HavyasU/DSA-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/HavyasU/DSA-Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/HavyasU/DSA-Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -280,6 +281,7 @@ java Solution
 | [1207-unique-number-of-occurrences](https://github.com/HavyasU/DSA-Leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HavyasU/DSA-Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HavyasU/DSA-Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -523,6 +525,7 @@ java Solution
 | [0383-ransom-note](https://github.com/HavyasU/DSA-Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HavyasU/DSA-Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HavyasU/DSA-Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/HavyasU/DSA-Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
