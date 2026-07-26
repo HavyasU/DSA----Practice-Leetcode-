@@ -415,6 +415,7 @@ java Solution
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/HavyasU/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/HavyasU/DSA-Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/HavyasU/DSA-Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/HavyasU/DSA-Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -470,6 +471,7 @@ java Solution
 | [3370-smallest-number-with-all-set-bits](https://github.com/HavyasU/DSA-Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HavyasU/DSA-Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/HavyasU/DSA-Leetcode/tree/main/3516-find-closest-person/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/HavyasU/DSA-Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HavyasU/DSA-Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
