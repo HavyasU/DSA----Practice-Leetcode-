@@ -14,11 +14,6 @@ class Solution {
        int sum = 0;
        
        while(temp!=null){
-        // if(temp.val == 0) {
-        //     temp = temp.next;
-        //     continue;
-        // }
-        System.out.println(temp.val);
         if(temp.next!=null && temp.next.val == 0){
             if(temp.next.next==null){
                 temp.next = null;
