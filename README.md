@@ -110,6 +110,7 @@ java Solution
 | [0748-shortest-completing-word](https://github.com/HavyasU/DSA-Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/HavyasU/DSA-Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/HavyasU/DSA-Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0817-linked-list-components](https://github.com/HavyasU/DSA-Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HavyasU/DSA-Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/HavyasU/DSA-Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -274,6 +275,7 @@ java Solution
 | [0748-shortest-completing-word](https://github.com/HavyasU/DSA-Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/HavyasU/DSA-Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0817-linked-list-components](https://github.com/HavyasU/DSA-Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/HavyasU/DSA-Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/HavyasU/DSA-Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -651,6 +653,7 @@ java Solution
 | [0382-linked-list-random-node](https://github.com/HavyasU/DSA-Leetcode/tree/main/0382-linked-list-random-node/) | Medium |
 | [0705-design-hashset](https://github.com/HavyasU/DSA-Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/HavyasU/DSA-Leetcode/tree/main/0706-design-hashmap/) | Easy |
+| [0817-linked-list-components](https://github.com/HavyasU/DSA-Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
