@@ -616,6 +616,7 @@ java Solution
 | [2073-time-needed-to-buy-tickets](https://github.com/HavyasU/DSA-Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HavyasU/DSA-Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/HavyasU/DSA-Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/HavyasU/DSA-Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -658,6 +659,7 @@ java Solution
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HavyasU/DSA-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/HavyasU/DSA-Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
