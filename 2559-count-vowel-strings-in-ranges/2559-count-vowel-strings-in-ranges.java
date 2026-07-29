@@ -18,10 +18,6 @@ class Solution {
             freq[idx++] = count;
         }
 
-        for(int ele : freq){
-            System.out.println(ele);
-        }
-
         idx=0;
         for(int ar[]: queries){
             if(ar[0]==0){
