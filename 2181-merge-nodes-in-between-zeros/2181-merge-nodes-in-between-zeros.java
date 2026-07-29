@@ -10,22 +10,29 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-       ListNode temp = head;
-       int sum = 0;
+       ListNode temp = head.next;
+
+       ListNode res = null;
+       ListNode tail = null;
        
+       int sum =0;
        while(temp!=null){
-        if(temp.next!=null && temp.next.val == 0){
-            if(temp.next.next==null){
-                temp.next = null;
-                temp = temp.next;
+        if(temp.val != 0){
+            sum+=temp.val;
+        }else{
+            ListNode dummy = new ListNode(sum);
+            dummy.next = null;
+            if(tail == null){
+                tail = dummy;
+                res = tail;
             }else{
-                temp = temp.next;
-            }    
-        }else if(temp.next!=null && temp.next.val !=0){
-            temp.val+=temp.next.val;
-            temp.next = temp.next.next;
+                tail.next = dummy;
+                tail = tail.next;
+            }
+            sum=0;
         }
+        temp = temp.next;
        }
-       return head; 
+       return res; 
     }
 }
