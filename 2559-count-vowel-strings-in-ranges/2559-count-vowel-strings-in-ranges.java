@@ -1,9 +1,6 @@
 class Solution {
     boolean isVowel(char c){
-        if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
-            return true;
-        }
-        return false;
+        return "aeiou".indexOf(c) != -1;
     }
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n = words.length;
