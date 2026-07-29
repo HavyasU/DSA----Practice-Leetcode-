@@ -1,24 +1,29 @@
 class Solution {
-
-    public char reverse(char c){
-        switch(c){
-                case '(': return ')';
-                case '[': return ']';
-                case '{': return '}';
-        }
-        return 'c';
-    }
-
     public boolean isValid(String s) {
-        Stack<Character> stk = new Stack<>();
+        Stack<Character> st = new Stack<>();
+
         for(char c : s.toCharArray()){
             if(c=='(' || c=='[' || c=='{'){
-                stk.add(reverse(c));
+                st.push(c);
             }else{
-                if(stk.isEmpty() || stk.pop()!=c) return false;
+                if(st.isEmpty()){
+                    return false;
+                }
+                char top = st.pop();
+                if(c==')' && top != '('){
+                    return false;
+                }else if(c=='}' && top !=  '{'){
+                    return false;
+                }else if(c==']' && top != '['){
+                    return false;
+                }
             }
         }
-        if(!stk.isEmpty()) return false;
+
+        if(!st.isEmpty()){
+            return false;
+        }
+
         return true;
     }
 }
