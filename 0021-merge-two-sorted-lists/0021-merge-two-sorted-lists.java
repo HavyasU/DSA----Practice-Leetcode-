@@ -10,52 +10,35 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode temp=null;
-        ListNode head=null;
+        ListNode res = new ListNode(0);
+        ListNode head = res;
+        ListNode left = list1;
+        ListNode right = list2;
 
-        while(list1 !=null && list2!=null){
-            if(list1.val <= list2.val){
-                if(temp==null){
-                    temp = list1;
-                    head = temp;
-                }else{
-                    temp.next = list1;
-                    temp = temp.next;
-                }
-                list1 = list1.next;
+        while(left!=null && right!=null){
+            if(left.val <= right.val){
+                res.next = new ListNode(left.val);
+                left = left.next;
             }else{
-                if(temp==null){
-                    temp = list2;
-                    head = temp;
-                }else{
-                    temp.next = list2;
-                    temp = temp.next;
-                }
-                list2 = list2.next;
+                res.next = new ListNode(right.val);
+                right = right.next;
             }
+            res = res.next;
         }
 
-        while(list1!=null){
-            if(temp==null){
-                temp = list1;
-                head = temp;
-            }else{
-                temp.next = list1;
-                temp = temp.next;
-            }
-            list1 = list1.next;
-        }
-        while(list2!=null){
-            if(temp==null){
-                temp = list2;
-                head = temp;
-            }else{
-                temp.next = list2;
-                temp = temp.next;
-            }
-            list2 = list2.next;
+        while(left!=null){
+            res.next = new ListNode(left.val);
+            res = res.next;
+            left = left.next;
         }
 
-        return head; 
+        while(right!=null){
+            res.next = new ListNode(right.val);
+            res = res.next;
+            right = right.next;
+        }
+
+        head = head.next;
+        return head;
     }
 }
