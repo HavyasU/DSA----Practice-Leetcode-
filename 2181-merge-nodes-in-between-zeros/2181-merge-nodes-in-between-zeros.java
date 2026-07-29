@@ -12,9 +12,8 @@ class Solution {
     public ListNode mergeNodes(ListNode head) {
        ListNode temp = head.next;
 
-       ArrayList<Integer> lst = new ArrayList<>();
 
-       ListNode res =new ListNode(0);
+       ListNode res=new ListNode(0);
        ListNode tail = res;
        
        int sum =0;
@@ -22,18 +21,14 @@ class Solution {
         if(temp.val != 0){
             sum+=temp.val;
         }else{
-            lst.add(sum);
+            tail.next = new ListNode(sum);
+            tail = tail.next;
             sum = 0;
         }
         temp = temp.next;
        }
 
-
-       for(int ele : lst){
-            tail.next = new ListNode(ele);
-            tail = tail.next;
-       }
-       res = res.next;
-       return res; 
+        res = res.next;
+       return  res;
     }
 }
