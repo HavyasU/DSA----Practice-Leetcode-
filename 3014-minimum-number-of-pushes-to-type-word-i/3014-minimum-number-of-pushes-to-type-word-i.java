@@ -1,9 +1,17 @@
 class Solution {
     public int minimumPushes(String word) {
         int n = word.length();
-        int k = n/8;
-        int r = n%8;
-
-        return ( 4 * (k*(k+1)))+ r*(k+1);
+        int val =1;
+        int sum =0 ;
+        while(n>=0){
+            if(n<=8){
+                sum += (n*val);
+            }else{
+                sum+=(8*val);
+            }
+            val++;
+            n = n - 8;
+        }
+        return sum;
     }
 }
