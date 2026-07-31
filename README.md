@@ -198,6 +198,7 @@ java Solution
 | [3120-count-the-number-of-special-characters-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HavyasU/DSA-Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/HavyasU/DSA-Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3798-largest-even-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/3798-largest-even-number/) | Easy |
@@ -428,6 +429,7 @@ java Solution
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/HavyasU/DSA-Leetcode/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/HavyasU/DSA-Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/HavyasU/DSA-Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/HavyasU/DSA-Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Bit Manipulation
@@ -827,4 +829,8 @@ java Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
