@@ -194,6 +194,7 @@ java Solution
 | [2559-count-vowel-strings-in-ranges](https://github.com/HavyasU/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2716-minimize-string-length](https://github.com/HavyasU/DSA-Leetcode/tree/main/2716-minimize-string-length/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/HavyasU/DSA-Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HavyasU/DSA-Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -477,6 +478,7 @@ java Solution
 | [2544-alternating-digit-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2579-count-total-number-of-colored-cells](https://github.com/HavyasU/DSA-Leetcode/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HavyasU/DSA-Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HavyasU/DSA-Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -542,6 +544,7 @@ java Solution
 | [0942-di-string-match](https://github.com/HavyasU/DSA-Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HavyasU/DSA-Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1936-add-minimum-number-of-rungs](https://github.com/HavyasU/DSA-Leetcode/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
