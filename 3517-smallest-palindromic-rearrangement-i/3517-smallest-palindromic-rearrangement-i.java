@@ -7,7 +7,6 @@ class Solution {
             freq[s.charAt(i)-'a']++;
         }
 
-        System.out.println(Arrays.toString(freq));
 
         StringBuilder sb = new StringBuilder();
         char mid = '\000';
@@ -21,12 +20,17 @@ class Solution {
             }
         }
 
-        if(mid=='\000')
-        return sb.toString()+ sb.reverse().toString();
+        String left = sb.toString();
+        String right = sb.reverse().toString();
+
+        if(mid!='\000')
+        left += mid;
         
 
+
+
         // return sb.toString() + sb.reverse().toString();
-        return sb.toString()+mid+ sb.reverse().toString();
+        return left+right;
 
     }
 }
