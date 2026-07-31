@@ -19,20 +19,14 @@ class Solution {
                 mid = (char)(i + 'a');
                 freq[i]--;
             }
-            freq[i] = freq[i]/2;
         }
-        if(mid!='\000')
-        sb.append(mid);
 
-        for(int i=26-1;i>=0;i--){
-            for(int j=freq[i];j>0;j--){
-                sb.append((char)(i + 'a'));
-            }
-            freq[i]/=2;
-        }
+        if(mid=='\000')
+        return sb.toString()+ sb.reverse().toString();
+        
 
         // return sb.toString() + sb.reverse().toString();
-        return sb.toString();
+        return sb.toString()+mid+ sb.reverse().toString();
 
     }
 }
