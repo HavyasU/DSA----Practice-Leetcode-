@@ -164,6 +164,7 @@ java Solution
 | [0686-repeated-string-match](https://github.com/HavyasU/DSA-Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0748-shortest-completing-word](https://github.com/HavyasU/DSA-Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/HavyasU/DSA-Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0784-letter-case-permutation](https://github.com/HavyasU/DSA-Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/HavyasU/DSA-Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/HavyasU/DSA-Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -441,6 +442,7 @@ java Solution
 | [0260-single-number-iii](https://github.com/HavyasU/DSA-Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/HavyasU/DSA-Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0784-letter-case-permutation](https://github.com/HavyasU/DSA-Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HavyasU/DSA-Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1763-longest-nice-substring](https://github.com/HavyasU/DSA-Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -832,6 +834,7 @@ java Solution
 | ------- | ------- |
 | [0078-subsets](https://github.com/HavyasU/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0784-letter-case-permutation](https://github.com/HavyasU/DSA-Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
