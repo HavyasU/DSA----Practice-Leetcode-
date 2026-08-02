@@ -285,6 +285,7 @@ java Solution
 | [0817-linked-list-components](https://github.com/HavyasU/DSA-Leetcode/tree/main/0817-linked-list-components/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/HavyasU/DSA-Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/HavyasU/DSA-Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0942-di-string-match](https://github.com/HavyasU/DSA-Leetcode/tree/main/0942-di-string-match/) | Easy |
@@ -473,6 +474,7 @@ java Solution
 | [0728-self-dividing-numbers](https://github.com/HavyasU/DSA-Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/HavyasU/DSA-Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0866-prime-palindrome](https://github.com/HavyasU/DSA-Leetcode/tree/main/0866-prime-palindrome/) | Medium |
+| [0877-stone-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HavyasU/DSA-Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HavyasU/DSA-Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -581,6 +583,7 @@ java Solution
 | [0118-pascals-triangle](https://github.com/HavyasU/DSA-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HavyasU/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0788-rotated-digits](https://github.com/HavyasU/DSA-Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
@@ -820,6 +823,7 @@ java Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/HavyasU/DSA-Leetcode/tree/main/1025-divisor-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
