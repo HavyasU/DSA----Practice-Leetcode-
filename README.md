@@ -83,6 +83,7 @@ java Solution
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HavyasU/DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/HavyasU/DSA-Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/HavyasU/DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/HavyasU/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -143,6 +144,7 @@ java Solution
 | [0006-zigzag-conversion](https://github.com/HavyasU/DSA-Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/HavyasU/DSA-Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/HavyasU/DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/HavyasU/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/HavyasU/DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/HavyasU/DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -832,6 +834,7 @@ java Solution
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0078-subsets](https://github.com/HavyasU/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0784-letter-case-permutation](https://github.com/HavyasU/DSA-Leetcode/tree/main/0784-letter-case-permutation/) | Medium |
