@@ -267,6 +267,7 @@ java Solution
 | [0493-reverse-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/HavyasU/DSA-Leetcode/tree/main/0500-keyboard-row/) | Easy |
+| [0506-relative-ranks](https://github.com/HavyasU/DSA-Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/HavyasU/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/HavyasU/DSA-Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/HavyasU/DSA-Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -429,6 +430,7 @@ java Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/HavyasU/DSA-Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/HavyasU/DSA-Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HavyasU/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/HavyasU/DSA-Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/HavyasU/DSA-Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/HavyasU/DSA-Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -735,6 +737,7 @@ java Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0506-relative-ranks](https://github.com/HavyasU/DSA-Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/HavyasU/DSA-Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/HavyasU/DSA-Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
