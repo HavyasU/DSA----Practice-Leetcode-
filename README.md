@@ -251,6 +251,7 @@ java Solution
 | [0164-maximum-gap](https://github.com/HavyasU/DSA-Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HavyasU/DSA-Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/HavyasU/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HavyasU/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/HavyasU/DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/HavyasU/DSA-Leetcode/tree/main/0228-summary-ranges/) | Easy |
@@ -420,6 +421,7 @@ java Solution
 | [0088-merge-sorted-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0164-maximum-gap](https://github.com/HavyasU/DSA-Leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/HavyasU/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HavyasU/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/HavyasU/DSA-Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/HavyasU/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -614,6 +616,7 @@ java Solution
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/HavyasU/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/HavyasU/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0493-reverse-pairs](https://github.com/HavyasU/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [1763-longest-nice-substring](https://github.com/HavyasU/DSA-Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Interactive
@@ -731,6 +734,7 @@ java Solution
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/HavyasU/DSA-Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/HavyasU/DSA-Leetcode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -859,4 +863,8 @@ java Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
