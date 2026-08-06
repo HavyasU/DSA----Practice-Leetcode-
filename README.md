@@ -213,6 +213,7 @@ java Solution
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/HavyasU/DSA-Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3745-maximize-expression-of-three-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/3745-maximize-expression-of-three-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
@@ -500,6 +501,7 @@ java Solution
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HavyasU/DSA-Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/HavyasU/DSA-Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HavyasU/DSA-Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/HavyasU/DSA-Leetcode/tree/main/3516-find-closest-person/) | Easy |
