@@ -22,7 +22,6 @@ class Solution {
         if(node.val >= max){
             max = node.val;
             count++;
-            System.out.println(node.val);
         }
         DFS(node.left, max);
         DFS(node.right,max);
