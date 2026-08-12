@@ -136,6 +136,7 @@ java Solution
 | [2716-minimize-string-length](https://github.com/HavyasU/DSA-Leetcode/tree/main/2716-minimize-string-length/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/HavyasU/DSA-Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HavyasU/DSA-Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/HavyasU/DSA-Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -335,6 +336,7 @@ java Solution
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HavyasU/DSA-Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/HavyasU/DSA-Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/HavyasU/DSA-Leetcode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HavyasU/DSA-Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/HavyasU/DSA-Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HavyasU/DSA-Leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HavyasU/DSA-Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -536,6 +538,7 @@ java Solution
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HavyasU/DSA-Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HavyasU/DSA-Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1763-longest-nice-substring](https://github.com/HavyasU/DSA-Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HavyasU/DSA-Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
