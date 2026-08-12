@@ -782,6 +782,7 @@ java Solution
 | [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -800,6 +801,7 @@ java Solution
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/HavyasU/DSA-Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/HavyasU/DSA-Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,6 +819,7 @@ java Solution
 | [0257-binary-tree-paths](https://github.com/HavyasU/DSA-Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -845,6 +848,7 @@ java Solution
 | [0530-minimum-absolute-difference-in-bst](https://github.com/HavyasU/DSA-Leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0733-flood-fill](https://github.com/HavyasU/DSA-Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1042-flower-planting-with-no-adjacent](https://github.com/HavyasU/DSA-Leetcode/tree/main/1042-flower-planting-with-no-adjacent/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HavyasU/DSA-Leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
