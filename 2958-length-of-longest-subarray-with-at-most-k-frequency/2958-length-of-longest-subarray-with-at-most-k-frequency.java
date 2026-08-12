@@ -26,7 +26,6 @@ class Solution {
             if((right-left)  > max){
                 max = right-left;
             }
-            System.out.println(left+""+right);
         }
 
         return max;
