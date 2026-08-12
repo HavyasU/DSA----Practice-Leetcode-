@@ -332,6 +332,7 @@ java Solution
 | [2540-minimum-common-value](https://github.com/HavyasU/DSA-Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HavyasU/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/HavyasU/DSA-Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/HavyasU/DSA-Leetcode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/HavyasU/DSA-Leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/HavyasU/DSA-Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -549,6 +550,7 @@ java Solution
 | [1480-running-sum-of-1d-array](https://github.com/HavyasU/DSA-Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/HavyasU/DSA-Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HavyasU/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/HavyasU/DSA-Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/HavyasU/DSA-Leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Design
 | Problem Name | Difficulty |
