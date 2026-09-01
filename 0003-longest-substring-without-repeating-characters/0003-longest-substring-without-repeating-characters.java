@@ -9,14 +9,13 @@ class Solution {
         int right = 0;
         int maxLen = 0;
 
-        while(left<n && right<n){
+        while(right<n){
             if(hs.contains(s.charAt(right))){
-                while(hs.contains(s.charAt(right))){
-                    hs.remove(s.charAt(left++));
-                }
+                hs.remove(s.charAt(left++));
             }else{
-                hs.add(s.charAt(right++));
-                maxLen = Math.max(maxLen,(right-left));
+                hs.add(s.charAt(right));
+                maxLen = Math.max(maxLen,(right-left)+1);
+                right++;
             }
         }
 
