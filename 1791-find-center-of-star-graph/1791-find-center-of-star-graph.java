@@ -1,20 +1,21 @@
 class Solution {
     public int findCenter(int[][] edges) {
-        int line[] = new int[edges.length+1];
-
-        for(int path[] : edges){
-            
-            
-
-            if(++line[path[0]-1]==edges.length){
-                return path[0];
-            }
-
-             if(++line[path[1]-1]==edges.length){
-                return path[1];
+        int ele=-1;
+        int count = 0;
+        for(int arr[] : edges){
+            for(int cur : arr)
+            {
+                    if(ele == cur){
+                        count++;
+                    }else{
+                        count--;
+                    }
+                    if(count <= 0){
+                        ele = cur;
+                        count = 1;
+                    }
             }
         }
-
-        return -1;
+        return ele;
     }
 }
