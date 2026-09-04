@@ -561,6 +561,7 @@ java Solution
 | [2559-count-vowel-strings-in-ranges](https://github.com/HavyasU/DSA-Leetcode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/HavyasU/DSA-Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/HavyasU/DSA-Leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/HavyasU/DSA-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
